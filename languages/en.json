@@ -1,0 +1,17 @@
+{
+    "profile": {
+        "role": "Web Developer",
+        "description": "I am passionate about computing and web development, currently pursuing a Higher Degree in Web Application Development (DAW). From a young age, technology has been my greatest interest, which has led me to explore and master areas such as web design, programming, and database management. I am always looking for new challenges that allow me to improve my skills and learn something new every day."
+    },
+    "experience": {
+        "first-job-title": "Database Management",
+        "first-job-dates": "September 2022 - Present",
+        "first-job-description": "Design, implementation, and maintenance of databases containing technical information, inventories, and customer records.",
+        "second-job-title": "Store Manager",
+        "second-job-dates": "July 2019 - Present",
+        "second-job-description": "Responsible for overseeing the daily operations of the restaurant and ensuring a high standard of customer service. My role encompasses a variety of key responsibilities that contribute to the efficient and successful operation of the store.",
+        "last-job-title": "Primary School Teacher",
+        "last-job-dates": "October 2018 - July 2019",
+        "last-job-description": "Proficiency in applying differentiated teaching methods to cater to the diversity of learning styles and ability levels of students. This includes adapting pedagogical strategies and resources to meet individual and group needs."
+    }
+}

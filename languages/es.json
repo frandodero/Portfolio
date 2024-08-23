@@ -1,0 +1,18 @@
+{
+    "profile":{
+        "rol":"Desarrollador Web",
+        "description": "Soy un apasionado de la informática y el desarrollo web, actualmente cursando el Grado Superior en Desarrollo de Aplicaciones Web (DAW). Desde muy joven, la tecnología ha sido mi mayor interés, lo que me ha llevado a explorar y dominar áreas como el diseño de páginas web, la programación y la gestión de bases de datos. Siempre busco nuevos desafíos que me permitan mejorar mis habilidades y aprender algo nuevo cada día."
+    },
+    "experience":{
+        "first-job-title": "Gestión de base de datos",
+        "first-job-dates": "Septiembre 2022 - Actualmente",
+        "first-job-title": "Diseño, implementación y mantenimiento de las bases de datos que contienen la información técnica, inventarios y registros de clientes.",
+    "second-job-title": "Encargado de tienda",
+        "second-job-dates": "Julio 2019 - Actualmente",
+        "second-job-title": "Responsable de supervisar las operaciones diarias del restaurante y garantizar un alto estándar de servicio al cliente. Mi rol abarca una variedad de responsabilidades clave que contribuyen al funcionamiento eficiente y exitoso de la tienda.",
+        "last-job-title": "Maestro de educación primaria",
+        "last-job-dates": "Octubre 2018 - Julio 2019",
+        "last-job-title": "Competencia en aplicar métodos de enseñanza diferenciados para atender a la diversidad de estilos de aprendizaje y niveles de habilidad de los estudiantes. Esto incluye la adaptación de las estrategias pedagógicas y los recursos para satisfacer las necesidades individuales y de grupo."
+    }
+
+}
